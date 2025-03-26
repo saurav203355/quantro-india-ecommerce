@@ -1,0 +1,11 @@
+/src
+├── components/
+├── pages/
+├── context/
+├── services/
+└── App.js
+
+/backend
+├── models/
+├── routes/
+└── server.js
